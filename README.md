@@ -13,7 +13,7 @@ big
 ![supportisraelbanner](https://i.imagesup.co/images2/d29f8c730956ad7c4813b1a400faecacae7cbb71.png)
 the file is [here](https://github.com/TheYali1/support-israel-banner/blob/main/Banner.html)
 ## or
-here is the code
+here is the code to the banner
 ```md
 <style>
 body {
